@@ -1,0 +1,54 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    min-height: 100vh;
+    font-family: 'Cabin', sans-serif;
+    color: white;
+}
+
+.nav-link{
+    margin-left: 1rem;
+}
+
+.linea{
+    border-top: 3px solid;
+}
+
+
+.destacado{
+    padding-top: 5rem;
+}
+
+.carta{
+    padding: 0;
+    height: 9rem;
+}
+
+.card{
+    padding: 0;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+footer{
+    margin-top: auto;
+}
+.foot{
+    vertical-align: middle;
+}
+
+.logofoot{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    /*font-weight: lighter;*/
+}
+
+.icofoot{
+    float: right;
+    color: white;
+    margin: 1rem;
+}
